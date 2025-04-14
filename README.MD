@@ -76,14 +76,6 @@ Para este análisis específico, se filtró el dataset para incluir únicamente 
    - Mayor error en datos de prueba, especialmente en periodos de alta volatilidad o cambios abruptos
    - Tendencia a sobreestimar algunos valores, particularmente a finales del periodo de prueba
 
-## 🔍 Mejoras Potenciales
-
-- **Inclusión de más variables**: Considerar indicadores técnicos adicionales como medias móviles, RSI, o MACD
-- **Experimentar con grados polinómicos**: Probar grado 3 para capturar relaciones aún más complejas
-- **Normalización de variables**: Aplicar escalado para mejorar la convergencia y estabilidad del modelo
-- **Modelos alternativos**: Explorar algoritmos como Random Forest, Gradient Boosting o redes neuronales recurrentes (LSTM)
-- **Ventanas temporales**: Implementar una estrategia de ventana deslizante para mejorar predicciones a corto plazo
-
 ## 🛠 Tecnologías Utilizadas
 
 - **Python**: Lenguaje de programación principal
